@@ -1,7 +1,3 @@
-Here's a clean and professional README for your Java Calculator program:
-
----
-
 # Simple Java Calculator
 
 This is a basic command-line calculator written in Java that performs simple arithmetic operations: addition, subtraction, multiplication, and division.
