@@ -63,7 +63,3 @@ The program uses a `Scanner` to read user input from the console. Based on the u
 ## License
 
 This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-Let me know if you'd like to add instructions for packaging this as a JAR file or want it formatted for GitHub specifically.# Calculator
